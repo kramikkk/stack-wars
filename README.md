@@ -39,8 +39,6 @@ Both the name and the overall design — including the custom case and immersive
 
 ## 📸 Documentation
 
-## 📸 Documentation
-
 **Circuit Design (Made in Cirkit Designer):**  
 <p align="center">
   <img src="Circuit%20Image.png" alt="Circuit Design" width="400">
