@@ -38,15 +38,31 @@ Both the name and the overall design — including the custom case and immersive
 5. If your block does not align with any block below → **Game Over**, meanwhile if you reach the top first → **Win**
 
 ## 📸 Documentation
-**Circuit Design (Made in Cirkit Designer):**
-![Circuit Image](/Circuit%20Image.png)
-**Actual Photos:**
-![Actual Photos](/StackWarsRealPhoto.gif)
-**Demonstration**
-<img src="DemoPlay.gif" alt="Gameplay Demo" width="800">
+
+## 📸 Documentation
+
+**Circuit Design (Made in Cirkit Designer):**  
+<p align="center">
+  <img src="Circuit%20Image.png" alt="Circuit Design" width="400">
+</p>
+
+**Actual Photos:**  
+<p align="center">
+  <img src="StackWarsRealPhoto.gif" alt="Actual Photos" width="400">
+</p>
+
+**Demonstration:**  
+<p align="center">
+  <img src="DemoPlay.gif" alt="Gameplay Demo" width="400">
+</p>
+
+
 
 **Paper Documentation:**
 [Full Documentation (PDF)](/StackWarsPaper.pdf)
+
+**3D Model:**
+[3D Model](/StackWars3D.skp)
 
 ## 📜 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
